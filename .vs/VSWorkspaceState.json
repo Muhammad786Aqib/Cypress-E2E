@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\cypress",
+    "\\cypress\\e2e",
+    "\\cypress\\e2e\\tests",
+    "\\cypress\\fixtures",
+    "\\cypress\\pages"
+  ],
+  "SelectedNode": "\\cypress\\pages\\RegisterPage.js",
+  "PreviewInSolutionExplorer": false
+}
