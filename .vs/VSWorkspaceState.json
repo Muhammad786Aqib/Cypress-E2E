@@ -1,12 +1,12 @@
 {
   "ExpandedNodes": [
     "",
+    "\\.github",
+    "\\.github\\workflows",
     "\\cypress",
-    "\\cypress\\e2e",
-    "\\cypress\\e2e\\tests",
-    "\\cypress\\fixtures",
-    "\\cypress\\pages"
+    "\\cypress\\reports",
+    "\\cypress\\screenshots"
   ],
-  "SelectedNode": "\\cypress\\pages\\RegisterPage.js",
+  "SelectedNode": "\\.github\\workflows\\build.yml",
   "PreviewInSolutionExplorer": false
 }

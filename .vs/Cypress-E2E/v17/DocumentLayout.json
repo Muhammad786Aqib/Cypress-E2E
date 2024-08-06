@@ -3,102 +3,81 @@
   "WorkspaceRootPath": "E:\\QualityEnginnerApplications\\Cypress Frameworks\\Cypress-E2E\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\QualityEnginnerApplications\\Cypress Frameworks\\Cypress-E2E\\cypress\\e2e\\tests\\registerTest.cy.js||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cypress\\e2e\\tests\\registerTest.cy.js||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\QualityEnginnerApplications\\Cypress Frameworks\\Cypress-E2E\\cypress\\pages\\registerPage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cypress\\pages\\registerPage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\QualityEnginnerApplications\\Cypress Frameworks\\Cypress-E2E\\.github\\workflows\\build.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.github\\workflows\\build.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\QualityEnginnerApplications\\Cypress Frameworks\\Cypress-E2E\\cypress.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cypress.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\QualityEnginnerApplications\\Cypress Frameworks\\Cypress-E2E\\cypress\\fixtures\\registerData.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cypress\\fixtures\\registerData.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\QualityEnginnerApplications\\Cypress Frameworks\\Cypress-E2E\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\QualityEnginnerApplications\\Cypress Frameworks\\Cypress-E2E\\cypress\\fixtures\\testData.json||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cypress\\fixtures\\testData.json||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\QualityEnginnerApplications\\Cypress Frameworks\\Cypress-E2E\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
     {
-      "Orientation": 0,
+      "Orientation": 1,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "registerPage.js",
-              "DocumentMoniker": "E:\\QualityEnginnerApplications\\Cypress Frameworks\\Cypress-E2E\\cypress\\pages\\registerPage.js",
-              "RelativeDocumentMoniker": "cypress\\pages\\registerPage.js",
-              "ToolTip": "E:\\QualityEnginnerApplications\\Cypress Frameworks\\Cypress-E2E\\cypress\\pages\\registerPage.js",
-              "RelativeToolTip": "cypress\\pages\\registerPage.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-08-04T21:26:21.804Z",
+              "DocumentIndex": 0,
+              "Title": "build.yml",
+              "DocumentMoniker": "E:\\QualityEnginnerApplications\\Cypress Frameworks\\Cypress-E2E\\.github\\workflows\\build.yml",
+              "RelativeDocumentMoniker": ".github\\workflows\\build.yml",
+              "ToolTip": "E:\\QualityEnginnerApplications\\Cypress Frameworks\\Cypress-E2E\\.github\\workflows\\build.yml",
+              "RelativeToolTip": ".github\\workflows\\build.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-08-06T21:18:45.395Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "cypress.config.js",
               "DocumentMoniker": "E:\\QualityEnginnerApplications\\Cypress Frameworks\\Cypress-E2E\\cypress.config.js",
               "RelativeDocumentMoniker": "cypress.config.js",
               "ToolTip": "E:\\QualityEnginnerApplications\\Cypress Frameworks\\Cypress-E2E\\cypress.config.js",
               "RelativeToolTip": "cypress.config.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-08-04T21:21:16.211Z",
+              "WhenOpened": "2024-08-06T19:42:16.336Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "testData.json",
-              "DocumentMoniker": "E:\\QualityEnginnerApplications\\Cypress Frameworks\\Cypress-E2E\\cypress\\fixtures\\testData.json",
-              "RelativeDocumentMoniker": "cypress\\fixtures\\testData.json",
-              "ToolTip": "E:\\QualityEnginnerApplications\\Cypress Frameworks\\Cypress-E2E\\cypress\\fixtures\\testData.json",
-              "RelativeToolTip": "cypress\\fixtures\\testData.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "DocumentIndex": 2,
+              "Title": "package-lock.json",
+              "DocumentMoniker": "E:\\QualityEnginnerApplications\\Cypress Frameworks\\Cypress-E2E\\package-lock.json",
+              "RelativeDocumentMoniker": "package-lock.json",
+              "ToolTip": "E:\\QualityEnginnerApplications\\Cypress Frameworks\\Cypress-E2E\\package-lock.json",
+              "RelativeToolTip": "package-lock.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-04T21:02:51.613Z",
+              "WhenOpened": "2024-08-06T19:42:12.737Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "registerData.json",
-              "DocumentMoniker": "E:\\QualityEnginnerApplications\\Cypress Frameworks\\Cypress-E2E\\cypress\\fixtures\\registerData.json",
-              "RelativeDocumentMoniker": "cypress\\fixtures\\registerData.json",
-              "ToolTip": "E:\\QualityEnginnerApplications\\Cypress Frameworks\\Cypress-E2E\\cypress\\fixtures\\registerData.json",
-              "RelativeToolTip": "cypress\\fixtures\\registerData.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAMAAAA",
+              "Title": "package.json",
+              "DocumentMoniker": "E:\\QualityEnginnerApplications\\Cypress Frameworks\\Cypress-E2E\\package.json",
+              "RelativeDocumentMoniker": "package.json",
+              "ToolTip": "E:\\QualityEnginnerApplications\\Cypress Frameworks\\Cypress-E2E\\package.json",
+              "RelativeToolTip": "package.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-04T21:02:36.764Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "registerTest.cy.js",
-              "DocumentMoniker": "E:\\QualityEnginnerApplications\\Cypress Frameworks\\Cypress-E2E\\cypress\\e2e\\tests\\registerTest.cy.js",
-              "RelativeDocumentMoniker": "cypress\\e2e\\tests\\registerTest.cy.js",
-              "ToolTip": "E:\\QualityEnginnerApplications\\Cypress Frameworks\\Cypress-E2E\\cypress\\e2e\\tests\\registerTest.cy.js",
-              "RelativeToolTip": "cypress\\e2e\\tests\\registerTest.cy.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-08-04T20:57:20.327Z",
+              "WhenOpened": "2024-08-06T19:12:39.664Z",
               "EditorCaption": ""
             }
           ]
