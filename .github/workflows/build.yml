@@ -19,7 +19,7 @@ jobs:
         run: npm install
 
       - name: Run Cypress tests
-        run: npx cypress run --reporter mochawesome --reporter-options "reportDir=cypress/reports/html,reportFilename=report"
+        run: npx cypress run
 
       - name: Upload Cypress reports
         uses: actions/upload-artifact@v3
