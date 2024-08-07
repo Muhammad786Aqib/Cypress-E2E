@@ -26,3 +26,14 @@ jobs:
         with:
           name: Mochawesome HTML Reports
           path: cypress/reports
+
+      - name: Send GitHub Action trigger data to Slack workflow
+        id: slack
+        uses: slackapi/slack-github-action@v1.26.0
+        with:
+          payload: |
+            {
+              "text": "GitHub Action has been triggered!"
+            }
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
