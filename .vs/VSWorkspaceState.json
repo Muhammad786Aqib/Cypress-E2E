@@ -7,6 +7,6 @@
     "\\cypress\\reports",
     "\\cypress\\screenshots"
   ],
-  "SelectedNode": "\\.github\\workflows\\build.yml",
+  "SelectedNode": "\\package.json",
   "PreviewInSolutionExplorer": false
 }
