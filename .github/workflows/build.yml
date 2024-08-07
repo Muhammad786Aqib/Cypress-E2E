@@ -22,7 +22,7 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: MochaAwesome HTML Report
-          path: cypress/reports/html
+          path: cypress/reports
 
       - name: Slack Notification
         uses: rtCamp/action-slack-notify@v2
