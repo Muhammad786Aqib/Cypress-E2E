@@ -1,38 +1,36 @@
-name: CI
+name: Build and Test
 
 on:
   push:
-  pull_request:
-  workflow_dispatch:
+    branches:
+      - main
 
 jobs:
   cypress-run:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
-
-      - name: Setup Node.js
-        uses: actions/setup-node@v2
-        with:
-          node-version: '14'
 
       - name: Install dependencies
         run: npm install
 
       - name: Run Cypress tests
-        run: npx cypress run
+        run: npm run cypress:run
 
-      - name: Upload Cypress reports
+      - name: Upload MochaAwesome HTML Report
         uses: actions/upload-artifact@v3
         with:
-          name: Mochawesome HTML Reports
-          path: cypress/reports
+          name: MochaAwesome HTML Report
+          path: cypress/reports/html
 
-      - name: Send GitHub Action trigger data to Slack workflow
-        id: slack
-        uses: slackapi/slack-github-action@v1.26.0
+      - name: Slack Notification
+        uses: rtCamp/action-slack-notify@v2
         env:
-          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+          SLACK_COLOR: ${{ job.status }} # or a specific color like 'good' or '#ff0000'
+          SLACK_ICON: https://github.com/rtCamp.png?size=48
+          SLACK_MESSAGE: Test Automation Report <https://github.com/Muhammad786Aqib/Cypress-E2E/actions/runs/${{github.run_id}}
+          SLACK_TITLE: Cypress Web Test
+          SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
+
 
