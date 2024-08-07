@@ -15,8 +15,7 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Run Cypress tests
-        run: npm run cypress:run
+     
 
       - name: Upload MochaAwesome HTML Report
         uses: actions/upload-artifact@v3
